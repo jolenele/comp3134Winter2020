@@ -1,0 +1,26 @@
+PING 165.227.43.194 (165.227.43.194): 56 data bytes
+Request timeout for icmp_seq 0
+64 bytes from 165.227.43.194: icmp_seq=1 ttl=58 time=4.633 ms
+64 bytes from 165.227.43.194: icmp_seq=2 ttl=58 time=2.530 ms
+64 bytes from 165.227.43.194: icmp_seq=3 ttl=58 time=2.560 ms
+64 bytes from 165.227.43.194: icmp_seq=4 ttl=58 time=2.593 ms
+64 bytes from 165.227.43.194: icmp_seq=5 ttl=58 time=2.490 ms
+64 bytes from 165.227.43.194: icmp_seq=6 ttl=58 time=2.562 ms
+Request timeout for icmp_seq 7
+64 bytes from 165.227.43.194: icmp_seq=8 ttl=58 time=2.576 ms
+64 bytes from 165.227.43.194: icmp_seq=9 ttl=58 time=4.074 ms
+64 bytes from 165.227.43.194: icmp_seq=10 ttl=58 time=2.295 ms
+64 bytes from 165.227.43.194: icmp_seq=11 ttl=58 time=26.263 ms
+64 bytes from 165.227.43.194: icmp_seq=12 ttl=58 time=8.048 ms
+64 bytes from 165.227.43.194: icmp_seq=13 ttl=58 time=2.583 ms
+64 bytes from 165.227.43.194: icmp_seq=14 ttl=58 time=3.233 ms
+64 bytes from 165.227.43.194: icmp_seq=15 ttl=58 time=2.357 ms
+64 bytes from 165.227.43.194: icmp_seq=16 ttl=58 time=4.008 ms
+64 bytes from 165.227.43.194: icmp_seq=17 ttl=58 time=2.567 ms
+64 bytes from 165.227.43.194: icmp_seq=18 ttl=58 time=2.310 ms
+64 bytes from 165.227.43.194: icmp_seq=19 ttl=58 time=2.668 ms
+^C
+--- 165.227.43.194 ping statistics ---
+20 packets transmitted, 18 packets received, 10.0% packet loss
+round-trip min/avg/max/stddev = 2.295/4.464/26.263/5.457 ms
+

@@ -1,0 +1,50 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap 172.217.7.14
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 16:23 UTC
+Nmap scan report for lga25s56-in-f14.1e100.net (172.217.7.14)
+Host is up (0.015s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 17.08 seconds
+
+
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -p 80 172.217.7.14
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 16:25 UTC
+Nmap scan report for lga25s56-in-f14.1e100.net (172.217.7.14)
+Host is up (0.015s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.50 seconds
+
+
+
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -p 80-443 172.217.7.14
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 16:27 UTC
+Nmap scan report for lga25s56-in-f14.1e100.net (172.217.7.14)
+Host is up (0.015s latency).
+Not shown: 362 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.90 seconds
+
+
+root@lamp-s-1vcpu-1gb-tor1-01:~# nmap -F 172.217.7.14
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-15 16:27 UTC
+Nmap scan report for lga25s56-in-f14.1e100.net (172.217.7.14)
+Host is up (0.015s latency).
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 3.65 seconds

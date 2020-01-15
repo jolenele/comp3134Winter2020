@@ -1,0 +1,276 @@
+Domain Name: JOLENE.COM
+Registry Domain ID: 27074312_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.meshdigital.com
+Registrar URL: http://www.domainbox.com
+Updated Date: 2018-04-06T00:00:00Z
+Creation Date: 2000-05-15T00:00:00Z
+Registrar Registration Expiration Date: 2022-05-15T00:00:00Z
+Registrar: 123-Reg Limited
+Registrar IANA ID: 1515
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.8779770099
+Reseller: 123Reg/Webfusion
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: Identity Protection Service
+Registrant Organization: Identity Protect Limited
+Registrant Street: PO Box 786
+Registrant City: Hayes
+Registrant State/Province: Middlesex
+Registrant Postal Code: UB3 9TR
+Registrant Country: GB
+Registrant Phone: +44.1483307527
+Registrant Phone Ext: 
+Registrant Fax: +44.1483304031
+Registrant Fax Ext: 
+Registrant Email: 
+Registry Admin ID: 
+Admin Name: Identity Protection Service
+Admin Organization: Identity Protect Limited
+Admin Street: PO Box 786
+Admin City: Hayes
+Admin State/Province: Middlesex
+Admin Postal Code: UB3 9TR
+Admin Country: GB
+Admin Phone: +44.1483307527
+Admin Phone Ext: 
+Admin Fax: +44.1483304031
+Admin Fax Ext: 
+Admin Email: 
+Registry Tech ID: 
+Tech Name: Identity Protection Service
+Tech Organization: Identity Protect Limited
+Tech Street: PO Box 786
+Tech City: Hayes
+Tech State/Province: Middlesex
+Tech Postal Code: UB3 9TR
+Tech Country: GB
+Tech Phone: +44.1483307527
+Tech Phone Ext: 
+Tech Fax: +44.1483304031
+Tech Fax Ext: 
+Tech Email: 
+Name Server: ns1.rosierinternet.co.uk
+Name Server: ns2.rosierinternet.co.uk
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+For more information on Whois status codes, please visit https://icann.org/epp
+
+
+Domain Name: YOGATREE.COM
+Registry Domain ID: 33834_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.godaddy.com
+Updated Date: 2019-03-12T11:16:21Z
+Creation Date: 1995-03-10T05:00:00Z
+Registrar Registration Expiration Date: 2023-03-11T05:00:00Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+Registrant Organization: The Yoga Tree
+Registrant State/Province: Washington
+Registrant Country: US
+Registrant Email: Select Contact Domain Holder link at 
+https://www.godaddy.com/whois/results.aspx?domain=YOGATREE.COM
+Admin Email: Select Contact Domain Holder link at 
+https://www.godaddy.com/whois/results.aspx?domain=YOGATREE.COM
+Tech Email: Select Contact Domain Holder link at 
+https://www.godaddy.com/whois/results.aspx?domain=YOGATREE.COM
+Name Server: NS41.DOMAINCONTROL.COM
+Name Server: NS42.DOMAINCONTROL.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2020-01-15T15:00:00Z <<<
+
+
+Domain Name: FACEBOOK.COM
+Registry Domain ID: 2320948_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.registrarsafe.com
+Registrar URL: https://www.registrarsafe.com
+Updated Date: 2019-10-17T18:52:06Z
+Creation Date: 1997-03-29T05:00:00Z
+Registrar Registration Expiration Date: 2028-03-30T04:00:00Z
+Registrar: RegistrarSafe, LLC
+Registrar IANA ID: 3237
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.6503087004
+Domain Status: clientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited https://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://www.icann.org/epp#serverTransferProhibited
+Domain Status: clientUpdateProhibited https://www.icann.org/epp#clientUpdateProhibited
+Domain Status: serverUpdateProhibited https://www.icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Admin
+Registrant Organization: Facebook, Inc.
+Registrant Street: 1601 Willow Rd 
+Registrant City: Menlo Park
+Registrant State/Province: CA
+Registrant Postal Code: 94025
+Registrant Country: US
+Registrant Phone: +1.6505434800
+Registrant Phone Ext:
+Registrant Fax: +1.6505434800
+Registrant Fax Ext:
+Registrant Email: 
+Registry Admin ID: 
+Admin Name: Domain Admin
+Admin Organization: Facebook, Inc.
+Admin Street: 1601 Willow Rd 
+Admin City: Menlo Park
+Admin State/Province: CA
+Admin Postal Code: 94025
+Admin Country: US
+Admin Phone: +1.6505434800
+Admin Phone Ext:
+Admin Fax: +1.6505434800
+Admin Fax Ext:
+Admin Email: 
+Registry Tech ID: 
+Tech Name: Domain Admin
+Tech Organization: Facebook, Inc.
+Tech Street: 1601 Willow Rd 
+Tech City: Menlo Park
+Tech State/Province: CA
+Tech Postal Code: 94025
+Tech Country: US
+Tech Phone: +1.6505434800
+Tech Phone Ext:
+Tech Fax: +1.6505434800
+Tech Fax Ext:
+Tech Email: 
+Name Server: A.NS.FACEBOOK.COM
+Name Server: B.NS.FACEBOOK.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2020-01-15T13:18:21Z <<<
+
+
+Domain Name: blackboard.com
+Registry Domain ID: 5134775_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: www.cscprotectsbrands.com
+Updated Date: 2019-07-11T01:38:00Z
+Creation Date: 1999-04-09T00:00:00Z
+Registrar Registration Expiration Date: 2021-07-15T17:53:20Z
+Registrar: CSC CORPORATE DOMAINS, INC.
+Sponsoring Registrar IANA ID: 299
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.8887802723
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited http://www.icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Administrator
+Registrant Organization: Blackboard Inc.
+Registrant Street: 
+Registrant City: Washington
+Registrant State/Province: DC
+Registrant Postal Code: 20036
+Registrant Country: US
+Registrant Phone: +1.2024634860
+Registrant Phone Ext: 
+Registrant Fax: +1.2024634860
+Registrant Fax Ext: 
+Registrant Email: 
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization: Blackboard Inc.
+Admin Street: 
+Admin City: Washington
+Admin State/Province: DC
+Admin Postal Code: 20036
+Admin Country: US
+Admin Phone: +1.2024634860
+Admin Phone Ext: 
+Admin Fax: +1.2024634860
+Admin Fax Ext: 
+Admin Email: 
+Registry Tech ID: 
+Tech Name: Domain Administrator
+Tech Organization: Blackboard Inc.
+Tech Street: 
+Tech City: Washington
+Tech State/Province: DC
+Tech Postal Code: 20036
+Tech Country: US
+Tech Phone: +1.2024634860
+Tech Phone Ext: 
+Tech Fax: +1.2024634860
+Tech Fax Ext: 
+Tech Email: 
+Name Server: ns4.blackboard.com
+Name Server: ns3.blackboard.com
+Name Server: ns1.blackboard.com
+Name Server: ns2.blackboard.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+
+
+Domain Name: cisco.com
+Registry Domain ID: 4987030_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-06-21T07:47:18-0700
+Creation Date: 1987-05-13T21:00:00-0700
+Registrar Registration Expiration Date: 2022-05-14T21:00:00-0700
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registry Registrant ID: 
+Registrant Name: Domain Administrator
+Registrant Organization:  Cisco Technology Inc.
+Registrant Street: 170 W. Tasman Dr.
+Registrant City: San Jose
+Registrant State/Province: CA
+Registrant Postal Code: 95134
+Registrant Country: US
+Registrant Phone: +1.4085273842
+Registrant Phone Ext: 
+Registrant Fax: +1.4085264575
+Registrant Fax Ext: 
+Registrant Email: 
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization:  Cisco Technology Inc.
+Admin Street: 170 W. Tasman Dr.
+Admin City: San Jose
+Admin State/Province: CA
+Admin Postal Code: 95134
+Admin Country: US
+Admin Phone: +1.4085273842
+Admin Phone Ext: 
+Admin Fax: +1.4085264575
+Admin Fax Ext: 
+Admin Email: 
+Registry Tech ID: 
+Tech Name: Domain Administrator
+Tech Organization:  Cisco Technology Inc.
+Tech Street: 170 W. Tasman Dr.
+Tech City: San Jose
+Tech State/Province: CA
+Tech Postal Code: 95134
+Tech Country: US
+Tech Phone: +1.4085273842
+Tech Phone Ext: 
+Tech Fax: +1.4085264575
+Tech Fax Ext: 
+Tech Email: 
+Name Server: ns1.cisco.com
+Name Server: ns3.cisco.com
+Name Server: ns2.cisco.com

@@ -1,0 +1,7 @@
+traceroute to 165.227.43.194 (165.227.43.194), 64 hops max, 72 byte packets
+ 1  10.16.32.1 (10.16.32.1)  1.896 ms  8.689 ms  4.375 ms
+ 2  198.96.85.3 (198.96.85.3)  1.450 ms  1.339 ms  1.380 ms
+ 3  ut-hub-gbrownc-if-internet.gtanet.ca (205.211.94.173)  2.122 ms  7.006 ms  2.287 ms
+ 4  digitalocean.ip4.torontointernetxchange.net (206.108.35.15)  37.465 ms  2.008 ms  1.850 ms
+ 5  138.197.249.91 (138.197.249.91)  3.070 ms  1.970 ms  1.864 ms
+
