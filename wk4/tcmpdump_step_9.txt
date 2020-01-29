@@ -1,0 +1,60 @@
+16:47:44.907744 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1122564:1122784, ack 649, win 309, options [nop,nop,TS val 2519080974 ecr 440396749], length 220
+16:47:44.907879 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1122784:1123004, ack 649, win 309, options [nop,nop,TS val 2519080975 ecr 440396749], length 220
+16:47:44.908013 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1123004:1123224, ack 649, win 309, options [nop,nop,TS val 2519080975 ecr 440396749], length 220
+16:47:44.908146 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1123224:1123444, ack 649, win 309, options [nop,nop,TS val 2519080975 ecr 440396749], length 220
+16:47:44.908279 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1123444:1123664, ack 649, win 309, options [nop,nop,TS val 2519080975 ecr 440396749], length 220
+16:47:44.908411 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1123664:1123884, ack 649, win 309, options [nop,nop,TS val 2519080975 ecr 440396749], length 220
+16:47:44.908591 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1123884:1124104, ack 649, win 309, options [nop,nop,TS val 2519080975 ecr 440396749], length 220
+16:47:44.908742 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1124104:1124324, ack 649, win 309, options [nop,nop,TS val 2519080975 ecr 440396749], length 220
+16:47:44.908938 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1124324:1124544, ack 649, win 309, options [nop,nop,TS val 2519080976 ecr 440396749], length 220
+16:47:44.909077 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1124544:1124764, ack 649, win 309, options [nop,nop,TS val 2519080976 ecr 440396749], length 220
+16:47:44.909191 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1124764:1124984, ack 649, win 309, options [nop,nop,TS val 2519080976 ecr 440396749], length 220
+16:47:44.909302 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1124984:1125204, ack 649, win 309, options [nop,nop,TS val 2519080976 ecr 440396749], length 220
+16:47:44.909410 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1125204:1125424, ack 649, win 309, options [nop,nop,TS val 2519080976 ecr 440396749], length 220
+16:47:44.909519 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1125424:1125644, ack 649, win 309, options [nop,nop,TS val 2519080976 ecr 440396749], length 220
+16:47:44.909627 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1125644:1125864, ack 649, win 309, options [nop,nop,TS val 2519080976 ecr 440396749], length 220
+16:47:44.909734 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1125864:1126084, ack 649, win 309, options [nop,nop,TS val 2519080976 ecr 440396749], length 220
+16:47:44.909840 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1126084:1126304, ack 649, win 309, options [nop,nop,TS val 2519080977 ecr 440396749], length 220
+16:47:44.909958 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1126304:1126524, ack 649, win 309, options [nop,nop,TS val 2519080977 ecr 440396749], length 220
+16:47:44.910077 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1126524:1126744, ack 649, win 309, options [nop,nop,TS val 2519080977 ecr 440396749], length 220
+16:47:44.910169 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1126744:1126964, ack 649, win 309, options [nop,nop,TS val 2519080977 ecr 440396749], length 220
+16:47:44.910263 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1126964:1127184, ack 649, win 309, options [nop,nop,TS val 2519080977 ecr 440396749], length 220
+16:47:44.910353 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1127184:1127404, ack 649, win 309, options [nop,nop,TS val 2519080977 ecr 440396749], length 220
+16:47:44.910463 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1127404:1127624, ack 649, win 309, options [nop,nop,TS val 2519080977 ecr 440396749], length 220
+16:47:44.910577 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1127624:1127844, ack 649, win 309, options [nop,nop,TS val 2519080977 ecr 440396749], length 220
+16:47:44.910685 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1127844:1128064, ack 649, win 309, options [nop,nop,TS val 2519080977 ecr 440396749], length 220
+16:47:44.910826 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1128064:1128284, ack 649, win 309, options [nop,nop,TS val 2519080977 ecr 440396749], length 220
+16:47:44.910937 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1128284:1128504, ack 649, win 309, options [nop,nop,TS val 2519080978 ecr 440396749], length 220
+16:47:44.911046 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1128504:1128724, ack 649, win 309, options [nop,nop,TS val 2519080978 ecr 440396749], length 220
+16:47:44.911161 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1128724:1128944, ack 649, win 309, options [nop,nop,TS val 2519080978 ecr 440396749], length 220
+16:47:44.911273 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1128944:1129164, ack 649, win 309, options [nop,nop,TS val 2519080978 ecr 440396749], length 220
+16:47:44.911382 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1129164:1129384, ack 649, win 309, options [nop,nop,TS val 2519080978 ecr 440396749], length 220
+16:47:44.911542 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1129384:1129604, ack 649, win 309, options [nop,nop,TS val 2519080978 ecr 440396749], length 220
+16:47:44.911704 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1129604:1129824, ack 649, win 309, options [nop,nop,TS val 2519080978 ecr 440396749], length 220
+16:47:44.911848 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1129824:1130044, ack 649, win 309, options [nop,nop,TS val 2519080979 ecr 440396749], length 220
+16:47:44.911982 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1130044:1130264, ack 649, win 309, options [nop,nop,TS val 2519080979 ecr 440396749], length 220
+16:47:44.912096 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1130264:1130484, ack 649, win 309, options [nop,nop,TS val 2519080979 ecr 440396749], length 220
+16:47:44.912208 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1130484:1130704, ack 649, win 309, options [nop,nop,TS val 2519080979 ecr 440396749], length 220
+16:47:44.912322 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1130704:1130924, ack 649, win 309, options [nop,nop,TS val 2519080979 ecr 440396749], length 220
+16:47:44.912431 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1130924:1131144, ack 649, win 309, options [nop,nop,TS val 2519080979 ecr 440396749], length 220
+16:47:44.912540 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1131144:1131364, ack 649, win 309, options [nop,nop,TS val 2519080979 ecr 440396749], length 220
+16:47:44.912647 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1131364:1131584, ack 649, win 309, options [nop,nop,TS val 2519080979 ecr 440396749], length 220
+16:47:44.912755 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1131584:1131804, ack 649, win 309, options [nop,nop,TS val 2519080979 ecr 440396749], length 220
+16:47:44.912863 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1131804:1132024, ack 649, win 309, options [nop,nop,TS val 2519080980 ecr 440396749], length 220
+16:47:44.912973 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1132024:1132244, ack 649, win 309, options [nop,nop,TS val 2519080980 ecr 440396749], length 220
+16:47:44.913084 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1132244:1132464, ack 649, win 309, options [nop,nop,TS val 2519080980 ecr 440396749], length 220
+16:47:44.913192 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1132464:1132684, ack 649, win 309, options [nop,nop,TS val 2519080980 ecr 440396749], length 220
+16:47:44.913303 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1132684:1132904, ack 649, win 309, options [nop,nop,TS val 2519080980 ecr 440396749], length 220
+16:47:44.913406 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1132904:1133124, ack 649, win 309, options [nop,nop,TS val 2519080980 ecr 440396749], length 220
+16:47:44.913523 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1133124:1133344, ack 649, win 309, options [nop,nop,TS val 2519080980 ecr 440396749], length 220
+16:47:44.941466 IP 198.96.85.21.50318 > lamp-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 649:685, ack 1108204, win 2254, options [nop,nop,TS val 440396777 ecr 2519080950], length 36
+16:47:44.941525 IP 198.96.85.21.50318 > lamp-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1108752, win 2245, options [nop,nop,TS val 440396785 ecr 2519080965], length 0
+16:47:44.941561 IP lamp-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.50318: Flags [P.], seq 1133344:1133564, ack 685, win 309, options [nop,nop,TS val 2519081008 ecr 440396777], length 220
+16:47:44.941599 IP 198.96.85.21.50318 > lamp-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1109964, win 2226, options [nop,nop,TS val 440396785 ecr 2519080966], length 0
+16:47:44.941613 IP 198.96.85.21.50318 > lamp-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1110184, win 2223, options [nop,nop,TS val 440396785 ecr 2519080966], length 0
+16:47:44.941624 IP 198.96.85.21.50318 > lamp-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1110404, win 2219, options [nop,nop,TS val 440396785 ecr 2519080967], length 0
+16:47:44.941635 IP 198.96.85.21.50318 > lamp-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1110624, win 2216, options [nop,nop,TS val 440396785 ecr 2519080967], length 0
+^C
+5421 packets captured
+8975 packets received by filter
+3553 packets dropped by kernel
