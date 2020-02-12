@@ -1,0 +1,2 @@
+Sudo service ssh restart
+Ssh -p 2222 host
