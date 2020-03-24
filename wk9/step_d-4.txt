@@ -1,0 +1,7 @@
+1. What you see on the browser?
+
+- This page shows that you can traverse to repos even when it is the folder before the web root
+
+2. What sensitive information is given by this page?
+
+- This page contains sensitive information, such as attacker can access the mail box, which possibly is the mail server of the application

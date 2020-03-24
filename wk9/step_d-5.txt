@@ -1,0 +1,7 @@
+1. What you see on the browser?
+
+- The attacker can navigate through the web server and can possibly have access to confidential files or folders
+
+2. What sensitive information given by this page?
+
+- This page gives attacker the information the you can traverse to folder before /html

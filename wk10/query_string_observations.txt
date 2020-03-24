@@ -1,0 +1,7 @@
+1. URL change from https://www.dictionary.com/browse/cybersecurity to https://www.dictionary.com/misspelling?term=laterasdz&s=t
+
+2. It leads to the same result as the first situation
+
+3. The page will display every books, memes or words that include hello
+
+4. The result is same as the third question

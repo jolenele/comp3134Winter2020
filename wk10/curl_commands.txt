@@ -1,0 +1,11 @@
+1. curl https://www.dictionary.com/browse/curl
+
+2. curl https://www.dictionary.com/browse/curlxyz
+
+3. curl http://142.93.150.209/sending_info_to_app_1.php?q=%22helloworld%22
+
+4. curl http://142.93.150.209/sending_info_to_app_1.php?q=%3Cscript%3Edocument.write(%E2%80%98overwrite_everything%E2%80%99)%3C/script%3E
+
+5. curl http://142.93.150.209/sending_info_to_app_2.php?
+q=%3Cscript%3Edocument.write(%E2%80%98overwrite_everything%E2%80%99)%3C/script%3E
+

