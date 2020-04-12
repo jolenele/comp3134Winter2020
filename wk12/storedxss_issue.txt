@@ -1,0 +1,1 @@
+Issue: the script tag was automatically forwarded to the head part of HTML file 

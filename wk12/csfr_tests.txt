@@ -1,0 +1,4 @@
+  1. If I use the csfr_form.php, the hidden info and the session will be sent to the csfr_action.php page
+
+  2. If I use the csfr.html, it will redirect to the csfr.php without capturing any sender's info
+  

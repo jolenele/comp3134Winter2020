@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>COMP 3134 Lab week 12</title>
+  </head>
+
+  <body>
+    <h1>COMP 3142 Lab Week 12</h1>
+    <form onsubmit="display()">
+      <input id="input" type="text" name="input" />
+      <input type="submit" name="submit" value="Submit" />
+    </form>
+    <div>
+      <span class="error"></span>
+    </div>
+
+    <script>
+      const display = () => {
+        event.preventDefault();
+        const text = document.getElementById('input').value;
+        document.querySelector('.error').innerHTML = text;
+      };
+    </script>
+  </body>
+</html>
