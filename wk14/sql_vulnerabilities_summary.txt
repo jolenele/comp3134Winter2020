@@ -1,0 +1,5 @@
+1. Since the value of the active value of user Ben is 0, the query did not return any result.
+
+2. It is because the -- following Ben changed the query from that part onwards into comment. As a result, it retrieve user named Ben without the condition of active = 1.
+
+3.) This condition returns records which are either named Ben or have active value = 1.
